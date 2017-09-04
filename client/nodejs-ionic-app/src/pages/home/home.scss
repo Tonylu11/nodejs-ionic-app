@@ -1,0 +1,7 @@
+.ios, .md {
+    home-page {
+        ion-content {
+            background-color: map-get($colors, primary);
+        }
+    }
+}
